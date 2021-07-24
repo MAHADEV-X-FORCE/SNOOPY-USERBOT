@@ -4,12 +4,12 @@ FROM biansepang/weebproject:buster
 # MahaDev-Project
 # Python
 # MahadevProject-Sid
-RUN git clone -b main https://github.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOTS /root/userbot
+RUN git clone -b main https://github.com/MAHADEV-X-FORCE/SNOOPY-USERBOTS /root/userbot
 RUN mkdir /root/userbot/.bin
 RUN pip install --upgrade pip setuptools
 WORKDIR /root/userbot
 
 #Install python requirements
-RUN pip3 install -r https://raw.githubusercontent.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOT/main/requirements.txt
+RUN pip3 install -r https://raw.githubusercontent.com/https://github.com/MAHADEV-X-FORCE/SNOOPY-USERBOTS/main/requirements.txt
 
 CMD ["python3","-m","userbot"]
