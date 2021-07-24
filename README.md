@@ -1,4 +1,4 @@
-# MAHADEV X USERBOT
+# SNOOPY USERBOT
 
 A POWERFUL AND SUPER USERBOT.......
 <p align="center">
@@ -6,21 +6,21 @@ A POWERFUL AND SUPER USERBOT.......
     
 
 
-![MAHADEV X USERBOT](https://telegra.ph/file/f6ce93cb39a345085b6b9.jpg)
+![SNOOPY THE USERBOT](https://telegra.ph/file/acab897abed18712e12e5.jpg)
 
 ### Group Support 🇮🇩
 `
 Click the button below to join our support group`
-   <a href="https://t.me/MAHADEV_X_USERBOT"><img src="https://img.shields.io/badge/Grup%20Support%3F-MAHADEV-red?&style=flat-square?&logo=telegram" width=170px></a></p>
+   <a href="https://t.me/SnoopyUserbotSupport"><img src="https://img.shields.io/badge/Grup%20Support%3F-MAHADEV-red?&style=flat-square?&logo=telegram" width=170px></a></p>
 
-__Repository create by [RAM/SIDDHARTH](TANDAV_X_MAHADEV_BAM_BHOLE)__
+__Repository create by [SNOOPY X](@Always_Sed_af)__
 
 
 
 
 ### Deploy to Heroku
 
-[![Deploy](https://telegra.ph/file/9737134fa5cfbdf967e0b.jpg)](https://heroku.com/deploy?template=https://github.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOTS)
+[![Deploy](https://telegra.ph/file/9737134fa5cfbdf967e0b.jpg)](https://heroku.com/deploy?template=https://github.com/MAHADEV-X-FORCE/SNOOPY-USERBOT)
 
 ### String Session 🖇
 `
